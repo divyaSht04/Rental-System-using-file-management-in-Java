@@ -26,5 +26,4 @@ This project is a simple rental system implemented in Java. It uses file managem
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/rental-system.git
-cd rental-system
+git clone https://github.com/divyaSht04/Rental-System-using-file-management-in-Java.git
